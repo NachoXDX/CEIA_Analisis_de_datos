@@ -176,4 +176,5 @@ cython_debug/
 # Others
 .DS_Store
 *.pkl
-poetry.lock
+poetry.lockejercicios/act_grupal/GEDEvent_v25_1.csv
+ejercicios/act_grupal/GEDEvent_v25_1.csv
