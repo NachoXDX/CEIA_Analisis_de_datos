@@ -80,7 +80,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
     </tr>
-     <!--
     <tr>
         <td rowspan="4">5️⃣</td>
         <td rowspan="4">Procesamiento de datos (continuación)</td>
@@ -121,6 +120,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
     </tr>
+     <!--
     <tr>
         <td rowspan="4">7️⃣</td>
         <td rowspan="4">Taller práctico - parte 2</td>
